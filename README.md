@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Edineia Brum</h1>
 <h3 align="center">An ex Math teacher who is now pursuing a new carrier as a DEV.</h3>
 
-- 🌱 I’m currently studying to become a DEV (CONNECT 2022 COURSE) **at the Technological Park - Biopark.**
+🌱 I’m currently studying to become a DEV (CONNECT 2022 COURSE) **at the Technological Park - Biopark.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h4 align="left">More about me:</h4>
+<p align="left"><a href="https://www.linkedin.com/in/edineiabrum/">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
