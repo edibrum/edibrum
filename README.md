@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edineia Brum</h1>
-<h3 align="center">An ex Math teacher who is now pursuing a new carrier as a DEV.</h3>
+<h3 align="center">A (Math/English/Elementary School) teacher who is now pursuing a new carrier as a DEV.</h3>
 
 I’m currently studying to become a DEV (CONNECT 2022 COURSE) **at the Technological Park - Biopark.**
 
