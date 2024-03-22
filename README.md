@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edineia Brum</h1>
 <h3 align="center">A (Math/English/Elementary School) teacher who is now pursuing a new carrier as a DEV.</h3>
 
-I’m currently studying **(Desenvolve GB 2023)** and also taking my first job opportunity **(Jr Developer at Maxicon Systems)** in this new journey.
+I’m currently studying **(Postgraduate Degree Course of Software Engineering)** and also taking my first job opportunity **(Jr Developer at Maxicon Systems)** in this new journey.
 
 <h4 align="left">More about me:</h4>
 <p align="left"><a href="https://www.linkedin.com/in/edineiabrum/">LinkedIn</a>
